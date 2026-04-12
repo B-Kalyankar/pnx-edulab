@@ -1,1 +1,5 @@
+anon public
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVtZnNma3N6aWVucHZqbmJ1bHhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwMTQwMTUsImV4cCI6MjA5MTU5MDAxNX0.VpjZqOo_h5lP-MS1i2XCXe3zlmog9c7orrecXehTo7E
 
+Project URL / API URL
+https://umfsfkszienpvjnbulxb.supabase.co
